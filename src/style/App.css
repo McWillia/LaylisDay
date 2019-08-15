@@ -19,15 +19,20 @@
   /*color: white;*/
 }
 
-.App-link {
-  color: #61dafb;
+.L {
+  background-color: black;
+  min-width: 100%;
+  width: 100%;
+  height: 100px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.E {
+  background-color: black;
+  min-width: 100%;
+  width: 100%;
+  height: 60px;
+}
+
+.uRow {
+  padding: 20px;
 }
