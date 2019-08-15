@@ -18,4 +18,4 @@ I have decided that the player for the first instance of this game will be my gi
 ## Diary
 
 ### 08/08/2019
-This is the birth date of the project and I have started with the most important thing, the favicon. I dont mean to brag, but it is perfect.
+This is the birth date of the project and I have started with the most important thing, the favicon. I dont mean to brag, but it is perfect. In less important news I have set up typescript and react strap so that next dev session I can start with everything set up and ready. I need to decide if I want to fuck with redux. We will see.
