@@ -13,13 +13,13 @@ class V extends React.Component <VProps>{
 			<div>
 				<div className='row'>
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 					<div className='col' />
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
@@ -27,13 +27,13 @@ class V extends React.Component <VProps>{
 
 				<div className='row'>
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 					<div className='col' />
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
@@ -41,7 +41,7 @@ class V extends React.Component <VProps>{
 				<div className='row'>
 					<div className='col' />
 					<div className='col' >
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>

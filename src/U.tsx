@@ -13,13 +13,13 @@ class U extends React.Component <UProps>{
 			<div>
 				<div className='row'>
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 					<div className='col' />
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
@@ -27,20 +27,20 @@ class U extends React.Component <UProps>{
 
 				<div className='row'>
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 					<div className='col' />
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 				</div>
 				<div className='row'>
 					<div className='col' >
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>

@@ -19,7 +19,7 @@
   /*color: white;*/
 }
 
-.L {
+.holder {
   background-color: black;
   min-width: 100%;
   width: 100%;
@@ -35,4 +35,21 @@
 
 .uRow {
   padding: 20px;
+}
+
+.L {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  line-height: 0.9;
+  hyphens: auto;
 }

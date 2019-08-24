@@ -13,27 +13,27 @@ class O extends React.Component <OProps>{
 			<div>
 				<div className='row'>
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>			
 				</div>
 				<div className='row'>
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 					<div className='col' />
 					<div className='col'>
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
 				</div>
 				<div className='row'>
 					<div className='col' >
-						<div className='L' >
+						<div className='holder' >
 				        	a
 				      	</div>
 					</div>
