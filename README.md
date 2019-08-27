@@ -25,3 +25,6 @@ Well it says love you now. So thats good.
 
 ### 24/08/2019
 Im messaging Layli just now and she has no idea. Granted, I have only told like 2 people about this, one of whom hasnt met Layli yet and the other just got told and said she wouldnt. I wrote a plan. That was most of the last hoour and a half and Im getting bored and want to go drum.
+
+### 27/08/2019
+ES Lint was apparently fucked.
